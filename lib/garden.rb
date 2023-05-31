@@ -14,6 +14,7 @@ class Garden
   end
 end
 
+
 lawn = Garden.new(name: 'Front Lawn')
 
 basil = Plant.new(name: 'Basil')
